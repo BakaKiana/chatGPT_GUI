@@ -3,7 +3,8 @@ import asyncio
 import tkinter as tk
 import time
 
-openai.api_key = "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"
+#替换成自己的apikey
+openai.api_key = ""
 
 async def run_openai(str):
     # 调用openai的接口
