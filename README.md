@@ -1,4 +1,4 @@
-# chatGPT_py
+# chatGPT_GUI
 基于python编写的调用chatGPT接口的问答GUI
 
 代码里的apikey需填写自己的
